@@ -47,3 +47,20 @@ The alert successfully triggered, confirming detection logic functionality.
 - Alert scheduling and throttling
 - Virtual network segmentation
 - Attack simulation and validation
+
+## Screenshots
+
+### Detection Query
+![Detection Query](detection-query.png)
+
+### Event ID 4625
+![4625 Event](event-4625.png)
+
+### Alert Configuration
+![Alert Config](alert-config.png)
+
+### Triggered Alert
+![Triggered Alert](triggered-alert.png)
+
+### Lab Architecture
+![Lab Architecture](lab-architecture.png)
